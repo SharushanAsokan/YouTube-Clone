@@ -19,6 +19,10 @@ This project is a front-end clone of the YouTube homepage layout. It recreates t
 2. Install Live Server extension
 3. Open `index.html` with Liver server in any browser
 
+## Acknowledgments
+This project was inspired by the YouTube UI and guided by online tutorial SuperSimpleDev and websites such as W3Schools.
+
+
 <img width="1885" height="893" alt="image" src="https://github.com/user-attachments/assets/8b1813eb-c8cd-4487-aada-8e8669c3d93c" />
 
 <img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/e251941f-96dc-44c0-bef1-12eb23b10fec" />
